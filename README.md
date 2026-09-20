@@ -13,7 +13,7 @@ interests: .............................. Data Analytics, Cybersecurity, Buildin
 <table>
   <tr>
     <td width="61%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizzsaal&theme=github_dark" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizzsaal&theme=github_dark&v=2" width="100%">
     </td>
     <td width="39%">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&theme=github_dark" width="100%">
