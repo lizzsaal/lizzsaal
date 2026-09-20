@@ -1,7 +1,7 @@
 # Hi, I'm Liz 👋
 
 <!-- Profile details -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizzsaal&theme=dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&langs_count=4&theme=dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizzsaal&theme=github_dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&langs_count=4&theme=dark_github)
 
 
 ### Connect With Me
