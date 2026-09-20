@@ -1,12 +1,12 @@
 ```swift
-name: ............................................................................................................ Liz Lopes 
-school: ............................................................................................. University of Waterloo 
-program: ..................................... Applied Mathematics with Scientific Computing and Scientific Machine Learning
-year: .......................................................................................................... Second year 
- 
-languages: ............................................................................... Python, JavaScript, HTML & CSS, C
-tools: ...................................................................................... GitHub, VS Code, Linux, Docker
-interests: ............................... Data Analytics, Cybersecurity, Building Side Projects, Game Dev, Open Source / ML
+name: ........................................................................................................... Liz Lopes
+school: ............................................................................................ University of Waterloo
+program: .................................... Applied Mathematics with Scientific Computing and Scientific Machine Learning
+year: ......................................................................................................... Second year
+
+languages: .............................................................................. Python, JavaScript, HTML & CSS, C
+tools: ..................................................................................... GitHub, VS Code, Linux, Docker
+interests: .............................. Data Analytics, Cybersecurity, Building Side Projects, Game Dev, Open Source / ML
  
 ```
 
