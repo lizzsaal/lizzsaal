@@ -10,8 +10,23 @@ interests: .............................. Data Analytics, Cybersecurity, Buildin
  
 ```
 
+<table>
+  <tr>
+    <td width="61%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizzsaal&theme=github_dark" width="100%">
+    </td>
+    <td width="39%">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&theme=github_dark" width="100%">
+    </td>
+  </tr>
+</table>
 
+<br>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lizzsaal&theme=github_dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=lizzsaal&layout=compact&langs_count=4&theme=dark_github)
-
-[![GitHub](https://img.shields.io/badge/GitHub-lizzsaal-181717?style=for-the-badge&logo=github)](https://github.com/lizzsaal)[![LinkedIn](https://img.shields.io/badge/LinkedIn-LizLopes-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/liz-lopes/)
+<a href="https://github.com/lizzsaal">
+  <img src="https://img.shields.io/badge/GitHub-lizzsaal-181717?style=for-the-badge&logo=github">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/liz-lopes/">
+  <img src="https://img.shields.io/badge/LinkedIn-LizLopes-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
