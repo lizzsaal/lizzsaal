@@ -1,12 +1,12 @@
-```yaml
+```swift
 name: ............................................................................................................ Liz Lopes 
 school: ............................................................................................. University of Waterloo 
 program: ..................................... Applied Mathematics with Scientific Computing and Scientific Machine Learning
-year: ............................................................................................................. 2nd year 
+year: .......................................................................................................... Second year 
  
 languages: ............................................................................... Python, JavaScript, HTML & CSS, C
 tools: ...................................................................................... GitHub, VS Code, Linux, Docker
-interests: ............................... data analytics, cybersecurity, building side projects, game dev, open source / ML
+interests: ............................... Data Analytics, Cybersecurity, Building Side Projects, Game Dev, Open Source / ML
  
 ```
 
