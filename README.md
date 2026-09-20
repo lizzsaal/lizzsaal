@@ -1,12 +1,12 @@
 ```yaml
-name: .............................................................................................................. Liz Lopes 
-school: ............................................................................................... University of Waterloo 
-program: ....................................... Applied Mathematics with Scientific Computing and Scientific Machine Learning
-year: ............................................................................................................... 2nd year 
+name: ............................................................................................................ Liz Lopes 
+school: ............................................................................................. University of Waterloo 
+program: ..................................... Applied Mathematics with Scientific Computing and Scientific Machine Learning
+year: ............................................................................................................. 2nd year 
  
-languages: ................................................................................. Python, JavaScript, HTML & CSS, C
-tools: ........................................................................................ GitHub, VS Code, Linux, Docker
-interests: ................................. data analytics, cybersecurity, building side projects, game dev, open source / ML
+languages: ............................................................................... Python, JavaScript, HTML & CSS, C
+tools: ...................................................................................... GitHub, VS Code, Linux, Docker
+interests: ............................... data analytics, cybersecurity, building side projects, game dev, open source / ML
  
 ```
 
